@@ -23,7 +23,8 @@ Foi combinada e realizada uma visita ao Jardim Botânico da UFSM.
 ## Detalhes de Visitas Feitas
 ### Jardim Botânico da UFSM (21/03):
 A professora organizou com o pessoal que trabalha no Jardim Botânico da UFSM uma visita com a turma. Na visita foi possível perceber e notar um lugar cheio de riquezas que é da universidade. Também, com a visita,  se tornou visível a necessidade e a possibilidade de ocorrerem projetos para ajudar na organização dos dados e que ajudassem de forma geral com as propostas da organização do Jardim, na área de informática. Seriam projetos para que os alunos com interesse pudessem participar, como por exemplo, gerar os QRcodes específicos de cada placa de planta, um localizador em GPS das plantas e pessoas no ambiente, entre outros.
-![Entrada do Jardim Botânico da UFSM](https://www.google.com/url?sa=i&url=https://www.ufsm.br/pro-reitorias/pre/2021/07/09/oficinas-virtuais-do-jardim-botanico-ufsm-serao-lancadas-na-proxima-quarta-14&psig=AOvVaw14EeTP66Y0FSltGVITHTK4&ust=1743790972347000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPD3oN69vIwDFQAAAAAdAAAAABAE)
+
+![Entrada do Jardim Botânico da UFSM](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.radiopampa.com.br%2Fjardim-botanico-da-universidade-federal-de-santa-maria-oferece-oficinas-virtuais-de-educacao-socioambiental-para-escolas%2F&psig=AOvVaw14EeTP66Y0FSltGVITHTK4&ust=1743790972347000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPD3oN69vIwDFQAAAAAdAAAAABAR)
 
 ### (04/04)
 
