@@ -1,5 +1,6 @@
 # RELATÓRIO DE EXTENSÃO
 *Luan Tiago Streck*
+
 Esta página tem o papel de mostrar as atividades, visitas, cronogramas, entre outras coisas vistas e feitas durante a disciplina de Práticas Extensionistas na Educação em Computação. Essa cadeira foi desenvolvida para proporcionar aos alunos uma compreensão sobre a Extensão Universitária — um dever com o qual os alunos devem cumprir na faculdade —, capacitando-os com o conhecimento necessário para aplicar os conceitos em situações práticas e desafiadoras.
 
 ## Cronograma de Atividades Semanais
