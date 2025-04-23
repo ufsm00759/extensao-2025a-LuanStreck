@@ -18,8 +18,11 @@ Foi combinada e realizada uma visita ao Jardim Botânico da UFSM.
 ### 31/03 - 04/04:
  Alguns alunos fizeram uma pesquisa para explicar na aula na quarta-feira, e foi combinado de ir visitar o da UFSM no centro de Santa Maria.
 ### 7 - 11/04:
-### 14 - 18/04:
-
+ Determinação dos papéis de cada um durante os projetos da disciplina no semestre.
+### 14 - 18/04: 
+ Visita ao Jardim Botânico e reunião com o pessoal para decidir pontos sobre o projeto.
+### 21 - 25/04: 
+ Reunião com a professora para encaminhar começo efetivo do trabalho, com resultados palpáveis.
 ## Detalhes de Visitas Feitas
 ### Jardim Botânico da UFSM (21/03):
 A professora organizou com o pessoal que trabalha no Jardim Botânico da UFSM uma visita com a turma. Na visita foi possível perceber e notar um lugar cheio de riquezas que é da universidade. Também, com a visita,  se tornou visível a necessidade e a possibilidade de ocorrerem projetos para ajudar na organização dos dados e que ajudassem de forma geral com as propostas da organização do Jardim, na área de informática. Seriam projetos para que os alunos com interesse pudessem participar, como por exemplo, gerar os QRcodes específicos de cada placa de planta, um localizador em GPS das plantas e pessoas no ambiente, entre outros.
