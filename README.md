@@ -23,6 +23,18 @@ Foi combinada e realizada uma visita ao Jardim Botânico da UFSM.
  Visita ao Jardim Botânico e reunião com o pessoal para decidir pontos sobre o projeto.
 ### 21 - 25/04: 
  Reunião com a professora para encaminhar começo efetivo do trabalho, com resultados palpáveis.
+ ### 28/04 - 02/05: 
+ Reunião com a professora para encaminhar começo efetivo do trabalho, com resultados palpáveis.
+ ### 05 - 09/05: 
+ Reunião com a professora para encaminhar começo efetivo do trabalho, com resultados palpáveis.
+ ### 12 - 16/05: 
+ Reunião com a professora para encaminhar começo efetivo do trabalho, com resultados palpáveis.
+ ### 19 - 23/05: 
+ Reunião com a professora para encaminhar começo efetivo do trabalho, com resultados palpáveis.
+ ### 26 - 30/05: 
+ Reunião com a professora para mostrar os slides a serem apresentados na futura reunião com o pessoal do Jardim Botânico
+ ### 02 - 06/06: 
+ Reunião com a professora para encaminhar começo efetivo do trabalho, com resultados palpáveis.
 ## Detalhes de Visitas Feitas
 ### Jardim Botânico da UFSM (21/03):
 A professora organizou com o pessoal que trabalha no Jardim Botânico da UFSM uma visita com a turma. Na visita foi possível perceber e notar um lugar cheio de riquezas que é da universidade. Também, com a visita,  se tornou visível a necessidade e a possibilidade de ocorrerem projetos para ajudar na organização dos dados e que ajudassem de forma geral com as propostas da organização do Jardim, na área de informática. Seriam projetos para que os alunos com interesse pudessem participar, como por exemplo, gerar os QRcodes específicos de cada placa de planta, um localizador em GPS das plantas e pessoas no ambiente, entre outros.
@@ -57,3 +69,11 @@ Participar do projeto permite que os estudantes desenvolvam habilidades de comun
 
 Impacto e Transformação Social:
 Ao democratizar o conhecimento sobre computação quântica, o projeto capacita a comunidade para compreender e potencialmente aplicar essa tecnologia emergente, contribuindo para a inclusão digital e tecnológica.
+
+### JARDIM BOTÂNICO:
+ Esse é o principal projeto da disciplina para vários alunos, ajudar o Jardim Botânico da UFSM com necessidades relacionadas à área de TI. Nesse sentido, fizemos reuniões iniciais para entender as necessidades e nos dividirmos e aplicarmos elas como projeto.
+ Assim, junto com o Enzo Santin da Silveira, nossa parte do projeto foi reformular e refazer o sistema de geração de placas, assim como as próprias placas de identificação das árvores.
+ Nesse sentido, com muitas reuniões e pesquisando e fazendo o trabalho por fora, fomos conseguindo criar os primeiros layouts como modelo e depois, com um grande avanço, começar a implementar o aplicativo em Python. 
+ A grande questão era como automatizar para gerar um grande número de placas e não apenas alguns modelos, já que essa era a grande questão da necessidade do Jardim. Nesse sentido, estudando algumas bibliotecas e pesquisando na internet, com o TKinter, uma biblioteca gráfica de Python, foi possível começar a modelar o aplicativo e fazer ele de uma forma simples e prática. Posteriormente, com o Pyinstaller, foi possível gerar o executável dele com ícone e transformar em um aplicativo funcional.
+ Como todo projeto, tivemos problemas no caminho e várias necessidades de idas para o Jardim Botânico para discussões e reuniões, mas tudo foi resolvido da melhor forma.
+
