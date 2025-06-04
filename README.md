@@ -24,17 +24,17 @@ Foi combinada e realizada uma visita ao Jardim Botânico da UFSM.
 ### 21 - 25/04: 
  Reunião com a professora para encaminhar começo efetivo do trabalho, com resultados palpáveis.
  ### 28/04 - 02/05: 
- Reunião com a professora para encaminhar começo efetivo do trabalho, com resultados palpáveis.
+ Reunião com a professora para apresentação dos resultados recentes e continuando discutindo temas relacionados ao projeto.
  ### 05 - 09/05: 
- Reunião com a professora para encaminhar começo efetivo do trabalho, com resultados palpáveis.
+ Reunião com a professora mostrando os novos resultados e discutindo alterações.
  ### 12 - 16/05: 
- Reunião com a professora para encaminhar começo efetivo do trabalho, com resultados palpáveis.
+ Reunião com a professora e discussão para fazer as plaquinhas, selecionando os modelos que o Jardim nos passou e procurando as gráficas para mandar fazê-las em PVC.
  ### 19 - 23/05: 
- Reunião com a professora para encaminhar começo efetivo do trabalho, com resultados palpáveis.
+ Reunião com a professora e instalação das plaquinhas no Jardim Botânico.
  ### 26 - 30/05: 
- Reunião com a professora para mostrar os slides a serem apresentados na futura reunião com o pessoal do Jardim Botânico
+ Reunião com a professora para contar de como foi a instalação das placas e continuar discutindo temas do projeto.
  ### 02 - 06/06: 
- Reunião com a professora para encaminhar começo efetivo do trabalho, com resultados palpáveis.
+ Reunião com a professora para mostrar os slides a serem apresentados na futura reunião com o pessoal do Jardim Botânico.
 ## Detalhes de Visitas Feitas
 ### Jardim Botânico da UFSM (21/03):
 A professora organizou com o pessoal que trabalha no Jardim Botânico da UFSM uma visita com a turma. Na visita foi possível perceber e notar um lugar cheio de riquezas que é da universidade. Também, com a visita,  se tornou visível a necessidade e a possibilidade de ocorrerem projetos para ajudar na organização dos dados e que ajudassem de forma geral com as propostas da organização do Jardim, na área de informática. Seriam projetos para que os alunos com interesse pudessem participar, como por exemplo, gerar os QRcodes específicos de cada placa de planta, um localizador em GPS das plantas e pessoas no ambiente, entre outros.
