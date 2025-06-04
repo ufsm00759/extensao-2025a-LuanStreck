@@ -23,6 +23,7 @@ Foi combinada e realizada uma visita ao Jardim Botânico da UFSM.
  Visita ao Jardim Botânico e reunião com o pessoal para decidir pontos sobre o projeto.
 ### 21 - 25/04: 
  Reunião com a professora para encaminhar começo efetivo do trabalho, com resultados palpáveis.
+ ### <ins>Maio:</ins>
  ### 28/04 - 02/05: 
  Reunião com a professora para apresentação dos resultados recentes e continuando discutindo temas relacionados ao projeto.
  ### 05 - 09/05: 
@@ -33,6 +34,7 @@ Foi combinada e realizada uma visita ao Jardim Botânico da UFSM.
  Reunião com a professora e instalação das plaquinhas no Jardim Botânico.
  ### 26 - 30/05: 
  Reunião com a professora para contar de como foi a instalação das placas e continuar discutindo temas do projeto.
+ ### <ins>Junho:</ins>
  ### 02 - 06/06: 
  Reunião com a professora para mostrar os slides a serem apresentados na futura reunião com o pessoal do Jardim Botânico.
 ## Detalhes de Visitas Feitas
