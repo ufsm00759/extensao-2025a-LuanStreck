@@ -89,6 +89,7 @@ Desenvolvemos um aplicativo funcional utilizando Python com interface gráfica c
 O material produzido está disponível em: https://github.com/enzosas/plaquinhasJardimBotanico
 
 * Contribuição e Experiência Individual:
+Como minha parte e principal contribuição efetiva com o projeto foi pensar no desing e em como fazer para instalar as placas de identificação no lugar. Além disso, 
   
 
 <ins>O que aprendemos?</ins>
@@ -104,7 +105,6 @@ O material produzido está disponível em: https://github.com/enzosas/plaquinhas
 Ao longo do projeto, interagimos diretamente com representantes do Jardim Botânico da UFSM em reuniões presenciais e virtuais. Essas interações foram fundamentais para o entendimento das demandas, validação dos protótipos e definição dos requisitos técnicos da aplicação. Além disso, também interagimos com o público que visitou o Jardim Botânico no dia do Viva o Campus, quando fomos convidados a ficar no Jardim e apresentar nosso projeto ao público visitante.
 
 <ins>Dificuldades Enfrentadas (Que pena):</ins>
-
 O principal limitante foi o tempo, dado o cronograma apertado da disciplina e a carga de outras atividades acadêmicas, o que impossibilitou fazer um projeto completo. Mesmo assim, para um semestre foi muito produtivo. Também enfrentamos incertezas quanto à estrutura ideal do aplicativo, ajustes no layout das placas, tratamento de exceções no processamento dos dados, além de organizações que precisávamos contatar o pessoal do Jardim Botânico para fazer, corrigir ou tomar decisões.
 
 <ins>Aspectos Positivos (Que bom):</ins>
