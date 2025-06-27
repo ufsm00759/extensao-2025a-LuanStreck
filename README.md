@@ -84,6 +84,7 @@ Ao democratizar o conhecimento sobre computação quântica, o projeto capacita 
 O projeto teve como objetivo atender a uma demanda real do Jardim Botânico da UFSM, envolvendo a reformulação e automação do sistema de geração de placas de identificação de árvores. A partir de reuniões iniciais com a equipe do Jardim Botânico, foi possível compreender as necessidades e propor um sistema que utilizasse recursos da nossa área de Ciência da Computação.
 
 <ins>O que entregamos?</ins>
+
 Desenvolvemos um aplicativo funcional utilizando Python com interface gráfica construída com a biblioteca Tkinter. O sistema permite gerar fácil e rapidamente placas de identificação a partir de modelos pré-definidos. Utilizamos também a biblioteca pandas para o tratamento de dados das espécies e a PyInstaller para gerar um executável final com ícone e layout personalizados, facilitando a distribuição e uso da aplicação por pessoas não técnicas.
 O material produzido está disponível em: https://github.com/enzosas/plaquinhasJardimBotanico
 
@@ -99,9 +100,11 @@ O material produzido está disponível em: https://github.com/enzosas/plaquinhas
 - Comunicação com usuários finais para validação de requisitos
 
 <ins>Com quem interagimos?</ins>
+
 Ao longo do projeto, interagimos diretamente com representantes do Jardim Botânico da UFSM em reuniões presenciais e virtuais. Essas interações foram fundamentais para o entendimento das demandas, validação dos protótipos e definição dos requisitos técnicos da aplicação. Além disso, também interagimos com o público que visitou o Jardim Botânico no dia do Viva o Campus, quando fomos convidados a ficar no Jardim e apresentar nosso projeto ao público visitante.
 
 <ins>Dificuldades Enfrentadas (Que pena):</ins>
+
 O principal limitante foi o tempo, dado o cronograma apertado da disciplina e a carga de outras atividades acadêmicas, o que impossibilitou fazer um projeto completo. Mesmo assim, para um semestre foi muito produtivo. Também enfrentamos incertezas quanto à estrutura ideal do aplicativo, ajustes no layout das placas, tratamento de exceções no processamento dos dados, além de organizações que precisávamos contatar o pessoal do Jardim Botânico para fazer, corrigir ou tomar decisões.
 
 <ins>Aspectos Positivos (Que bom):</ins>
