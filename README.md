@@ -104,11 +104,11 @@ No restante do projeto, foi o Enzo quem tomou a frente, como combinamos, e eu fu
 
 Particularmente, acho que foi uma experiência muito boa e produtiva, com uma saudável e boa interação no projeto principalmente com esses outros 3 colegas citados. Nos entendemos e conseguimos ser efetivos sem discussões improdutivas. Posso também dizer que tive aprendizados técnicos -aprofundando meus conhecimentos em Python, utilizando suas bibliotecas, como a pandas, por exemplo, que é muito famosa e útil, para gerar um aplicativo com interface visual de fácil entendimento para o usuário final- e profissionais -pensando, planejando e discutindo com os colegas de projeto para poder entregar um trabalho funcional e de boa qualidade no final-, portanto achei uma experiência muito boa e que contribuiu muito para a minha noção sobre participar de um projeto desse tamanho, bem como a experiência e técnica na área adquirida.
   
-<ins>O que aprendemos?</ins>
-- Durante o desenvolvimento, aprofundamos nossos conhecimentos em:
+<ins>O que aprendemos?</ins>  
+Durante o desenvolvimento, aprofundamos nossos conhecimentos em:
 - Interface gráfica com Tkinter
 - Manipulação e organização de dados com pandas
-- Empacotamento de aplicações Python com PyInstaller
+- Criação de executável de aplicações Python com PyInstaller
 - Planejamento e execução de projeto em equipe com foco em demandas reais
 - Comunicação com usuários finais para validação de requisitos
 
