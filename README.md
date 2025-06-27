@@ -77,7 +77,8 @@ Participar do projeto permite que os estudantes desenvolvam habilidades de comun
 Impacto e Transformação Social:
 Ao democratizar o conhecimento sobre computação quântica, o projeto capacita a comunidade para compreender e potencialmente aplicar essa tecnologia emergente, contribuindo para a inclusão digital e tecnológica.
 
-### RELATÓRIO FINAL DO PROJETO DO JARDIM BOTÂNICO:
+
+### <ins>RELATÓRIO FINAL DO PROJETO DO JARDIM BOTÂNICO:</ins>
 Resumo do Projeto:
 O projeto teve como objetivo atender a uma demanda real do Jardim Botânico da UFSM, envolvendo a reformulação e automação do sistema de geração de placas de identificação de árvores. A partir de reuniões iniciais com a equipe do Jardim Botânico, foi possível compreender as necessidades e propor um sistema que utilizasse recursos da nossa área de Ciência da Computação.
 
