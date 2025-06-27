@@ -87,16 +87,18 @@ O projeto teve como objetivo atender a uma demanda real do Jardim Botânico da U
 
 Desenvolvemos um aplicativo funcional utilizando Python com interface gráfica construída com a biblioteca Tkinter. O sistema permite gerar fácil e rapidamente placas de identificação a partir de modelos pré-definidos. Utilizamos também a biblioteca pandas para o tratamento de dados das espécies e a PyInstaller para gerar um executável final com ícone e layout personalizados, facilitando a distribuição e uso da aplicação por pessoas não técnicas.
 O material produzido está disponível em: https://github.com/enzosas/plaquinhasJardimBotanico
-<img src="placa_arvore_araucaria.jpg" alt="Árvore com a placa" width="300">
-
+<p align="center">
+  <img src="placa_arvore_araucaria.jpg" alt="Árvore com a placa" width="300">
+</p>
 * <ins>Contribuição e Experiência Individual:</ins>
 A minha parte do projeto foi feita em dupla com o Enzo Santin, sobre as placas. Também foi feito em um âmbito maior com o Tiago e o Samuel Steffler, que é a dupla que ficou responsável pela parte da criação do site e do acervo do Jardim Botânico, assim estando diretamente ligados com a nossa parte, já que os QRcodes das placas direcionam para o site.
 Como minha parte e principal contribuição efetiva com o projeto foi pensar no desing e em como fazer para instalar as placas de identificação no lugar. Além disso, contribui com o planejamento, programação e ajustes para a criação de outros possíveis layouts para as placas, que podem ser utilizados dependendo o caso, da forma que os usuários quiserem. Isso inclui planejar como serão exibidos o texto, QRcode e outros componentes da placa. Os modelos diferentes estão em anexo abaixo.
 Também ajudei com a geração do executável do aplicativo, utilizando a biblioteca Pyinstaller como a melhor opção para isso. Após o sucesso com o teste na geração, corrigimos o que restava -como a logo do aplicativo, por exemplo- para gerar o executável final.
 <p align="center">
-  <img src="placaQRGrande.png" alt="Placa QR Grande" width="250"/>
-  <img src="placaRetangular.png" alt="Placa Retangular" width="250"/>
+  <img src="placaQRGrande.png" alt="Placa QR Grande" width="220"/>
+  <img src="placaRetangular.png" alt="Placa Retangular" width="350"/>
 </p>
+
 No restante do projeto, foi o Enzo quem tomou a frente, como combinamos, e eu fui dando suporte e discutindo sobre o planejamento do aplicativo. Também discutimos tópicos acerca do projeto com a dupla do site, já que os dados para gerar as placas e o site vinham do mesmo lugar, e coordenamos nossas ações para gerar resultado. Assim, posteriormente fizemos nosso teste com 10 árvores, produzindo as placas para serem utilizadas fisicamente e com a inserção dessas espécies no acervo do site. Acredito que foi um sucesso, e conseguimos exibir para o público no Viva o Campus, também fomos elogiados pela equipe de administração do Jardim Botânico.
 Particularmente, acho que foi uma experiência muito boa e produtiva, com uma saudável e boa interação no projeto principalmente com esses outros 3 colegas citados. Nos entendemos e conseguimos ser efetivos sem discussões improdutivas. Posso também dizer que tive aprendizados técnicos -aprofundando meus conhecimentos em Python, utilizando suas bibliotecas, como a pandas, por exemplo, que é muito famosa e útil, para gerar um aplicativo com interface visual de fácil entendimento para o usuário final- e profissionais -pensando, planejando e discutindo com os colegas de projeto para poder entregar um trabalho funcional e de boa qualidade no final-, portanto achei uma experiência muito boa e que contribuiu muito para a minha noção sobre participar de um projeto desse tamanho, bem como a experiência e técnica na área adquirida.
   
