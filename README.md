@@ -87,6 +87,7 @@ O projeto teve como objetivo atender a uma demanda real do Jardim Botânico da U
 
 Desenvolvemos um aplicativo funcional utilizando Python com interface gráfica construída com a biblioteca Tkinter. O sistema permite gerar fácil e rapidamente placas de identificação a partir de modelos pré-definidos. Utilizamos também a biblioteca pandas para o tratamento de dados das espécies e a PyInstaller para gerar um executável final com ícone e layout personalizados, facilitando a distribuição e uso da aplicação por pessoas não técnicas.
 O material produzido está disponível em: https://github.com/enzosas/plaquinhasJardimBotanico
+![Árvore com a placa de identificação produzida](placa arvore araucaria.jpg)
 
 * Contribuição e Experiência Individual:
 Como minha parte e principal contribuição efetiva com o projeto foi pensar no desing e em como fazer para instalar as placas de identificação no lugar. Além disso, 
