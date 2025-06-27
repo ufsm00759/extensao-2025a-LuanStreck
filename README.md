@@ -37,11 +37,16 @@ Foi combinada e realizada uma visita ao Jardim Botânico da UFSM.
  ### <ins>Junho:</ins>
  ### 02 - 06/06: 
  Reunião com a professora para mostrar os slides a serem apresentados na futura reunião com o pessoal do Jardim Botânico.
+ ### 08 - 13/06:
+ Nessa semana, fomos no domingo para o Jardim Botânico apresentar nosso projeto ao público visitante, explicando sobre as plaquinhas e fazendo o uso delas. Além disso, também tivemos a reunião semanal
+ ### 16 - 18/06:
+ Tivemos uma reunião semanal online, devido às chuvas, para conversar acerca do encerramento do projeto da disciplina e como poderíamos encaminhar ela.
+ ### 23 - 27/06:
+ Última reunião da disciplina, onde todos alunos se encontraram para contar e explicar sobre seus projetos e fazer uma confraternização de despedida. Também foi tempo para elaborar os relatórios finais. 
 ## Detalhes de Visitas Feitas
 ### Jardim Botânico da UFSM (21/03):
 A professora organizou com o pessoal que trabalha no Jardim Botânico da UFSM uma visita com a turma. Na visita foi possível perceber e notar um lugar cheio de riquezas que é da universidade. Também, com a visita,  se tornou visível a necessidade e a possibilidade de ocorrerem projetos para ajudar na organização dos dados e que ajudassem de forma geral com as propostas da organização do Jardim, na área de informática. Seriam projetos para que os alunos com interesse pudessem participar, como por exemplo, gerar os QRcodes específicos de cada placa de planta, um localizador em GPS das plantas e pessoas no ambiente, entre outros.
 
-![Entrada do Jardim Botânico da UFSM](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.radiopampa.com.br%2Fjardim-botanico-da-universidade-federal-de-santa-maria-oferece-oficinas-virtuais-de-educacao-socioambiental-para-escolas%2F&psig=AOvVaw14EeTP66Y0FSltGVITHTK4&ust=1743790972347000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPD3oN69vIwDFQAAAAAdAAAAABAR)
 
 ### (04/04)
 
@@ -72,10 +77,30 @@ Participar do projeto permite que os estudantes desenvolvam habilidades de comun
 Impacto e Transformação Social:
 Ao democratizar o conhecimento sobre computação quântica, o projeto capacita a comunidade para compreender e potencialmente aplicar essa tecnologia emergente, contribuindo para a inclusão digital e tecnológica.
 
-### JARDIM BOTÂNICO:
- Esse é o principal projeto da disciplina para vários alunos, ajudar o Jardim Botânico da UFSM com necessidades relacionadas à área de TI. Nesse sentido, fizemos reuniões iniciais para entender as necessidades e nos dividirmos e aplicarmos elas como projeto.
- Assim, junto com o Enzo Santin da Silveira, nossa parte do projeto foi reformular e refazer o sistema de geração de placas, assim como as próprias placas de identificação das árvores.
- Nesse sentido, com muitas reuniões e pesquisando e fazendo o trabalho por fora, fomos conseguindo criar os primeiros layouts como modelo e depois, com um grande avanço, começar a implementar o aplicativo em Python. 
- A grande questão era como automatizar para gerar um grande número de placas e não apenas alguns modelos, já que essa era a grande questão da necessidade do Jardim. Nesse sentido, estudando algumas bibliotecas e pesquisando na internet, com o TKinter, uma biblioteca gráfica de Python, foi possível começar a modelar o aplicativo e fazer ele de uma forma simples e prática. Posteriormente, com o Pyinstaller, foi possível gerar o executável dele com ícone e transformar em um aplicativo funcional.
- Como todo projeto, tivemos problemas no caminho e várias necessidades de idas para o Jardim Botânico para discussões e reuniões, mas tudo foi resolvido da melhor forma.
+### RELATÓRIO FINAL DO PROJETO DO JARDIM BOTÂNICO:
+Resumo do Projeto:
+O projeto teve como objetivo atender a uma demanda real do Jardim Botânico da UFSM, envolvendo a reformulação e automação do sistema de geração de placas de identificação de árvores. A partir de reuniões iniciais com a equipe do Jardim Botânico, foi possível compreender as necessidades e propor um sistema que utilizasse recursos da nossa área de Ciência da Computação.
+
+Entregas Realizadas:
+Desenvolvemos um aplicativo funcional utilizando Python com interface gráfica construída com a biblioteca Tkinter. O sistema permite gerar fácil e rapidamente placas de identificação a partir de modelos pré-definidos. Utilizamos também a biblioteca pandas para o tratamento de dados das espécies e a PyInstaller para gerar um executável final com ícone e layout personalizados, facilitando a distribuição e uso da aplicação por pessoas não técnicas.
+
+Aprendizado Técnico e Prático:
+Durante o desenvolvimento, aprofundamos nossos conhecimentos em:
+Interface gráfica com Tkinter
+Manipulação e organização de dados com pandas
+Empacotamento de aplicações Python com PyInstaller
+Planejamento e execução de projeto em equipe com foco em demandas reais
+Comunicação com usuários finais para validação de requisitos
+
+Interações Realizadas:
+Ao longo do projeto, interagimos diretamente com representantes do Jardim Botânico da UFSM em reuniões presenciais e virtuais. Essas interações foram fundamentais para o entendimento das demandas, validação dos protótipos e definição dos requisitos técnicos da aplicação. Além disso, também interagimos com o público que visitou o Jardim Botânico no dia do Viva o Campus, quando fomos convidados a ficar no Jardim e apresentar nosso projeto ao público visitante.
+
+Dificuldades Enfrentadas:
+O principal limitante foi o tempo, dado o cronograma apertado da disciplina e a carga de outras atividades acadêmicas, o que impossibilitou fazer um projeto completo. Mesmo assim, para um semestre foi muito produtivo. Também enfrentamos incertezas quanto à estrutura ideal do aplicativo, ajustes no layout das placas, tratamento de exceções no processamento dos dados, além de organizações que precisávamos contatar o pessoal do Jardim Botânico para fazer, corrigir ou tomar decisões.
+
+Aspectos Positivos:
+Talvez, a melhor e mais importante parte para nós foi desenvolver um projeto com aplicação real e impacto direto em um setor da universidade. A possibilidade de ver uma solução prática ser utilizada por usuários reais agregou valor à experiência, além de proporcionar um aprendizado significativo na resolução de problemas técnicos e no trabalho colaborativo.
+
+Conclusão:
+A nossa parte projeto não apenas atendeu à necessidade proposta inicial do Jardim Botânico da UFSM, como também proporcionou uma rica experiência prática em desenvolvimento de software com ferramentas modernas. Foi uma oportunidade de aplicar conhecimentos da nossa área de formação em um contexto socialmente relevante e de ampliar a visão sobre como resolver demandas institucionais utilizando a tecnologia.
 
